@@ -4,7 +4,7 @@ digests:
     since: 1 week
     items:
       - https://github.com/dask/dask
-      - https://github.com/distributed/dask
+      - https://github.com/dask/distributed
     ignore_users:
       - GPUtester
   - digest: ucx-dask-cuda-lastweek.html
