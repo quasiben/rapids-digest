@@ -7,6 +7,18 @@ digests:
       - https://github.com/dask/distributed
     ignore_users:
       - GPUtester
+  - digest: rmm-lastweek.html
+    title: RMM Last Week
+    since: 1 week
+    items:
+      - https://github.com/rapidsai/rmm
+
+  - digest: cudf-lastweek.html
+    title: cuDF Last Week
+    since: 1 week
+    items:
+      - https://github.com/rapidsai/cudf
+
   - digest: ucx-dask-cuda-lastweek.html
     title: UCX-Py and Dask-CUDA Last week
     since: 1 week
