@@ -1,0 +1,18 @@
+digests:
+  - digest: dask-distributed-lastweek.html
+    title: Dask & Distributed
+    since: 1 week
+    items:
+      - https://github.com/dask/dask
+      - https://github.com/distributed/dask
+    ignore_users:
+      - GPUtester
+  - digest: ucx-dask-cuda-lastweek.html
+    title: UCX-Py and Dask-CUDA Last week
+    since: 1 week
+    items:
+      - https://github.com/rapidsai/dask-cuda
+      - https://github.com/rapidsai/ucx-py
+    ignore_users:
+      - GPUtester
+      - codecov-commenter
