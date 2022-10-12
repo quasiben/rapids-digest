@@ -12,13 +12,17 @@ digests:
     since: 1 week
     items:
       - https://github.com/rapidsai/rmm
-
+    ignore_users:
+      - GPUtester
+      - codecov-commenter
   - digest: cudf-lastweek.html
     title: cuDF Last Week
     since: 1 week
     items:
       - https://github.com/rapidsai/cudf
-
+    ignore_users:
+      - GPUtester
+      - codecov-commenter
   - digest: ucx-dask-cuda-lastweek.html
     title: UCX-Py and Dask-CUDA Last week
     since: 1 week
